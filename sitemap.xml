@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pitakill.net/post/windows-10-almost-ready/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/post/why-this-site/</loc>
+    <lastmod>2017-01-10T21:27:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/develop/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/general/</loc>
+    <lastmod>2017-01-10T21:27:37-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/linux/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/post/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tutorials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/windows/</loc>
+    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

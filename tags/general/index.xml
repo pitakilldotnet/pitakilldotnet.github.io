@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Leopoldo Caballero</title>
+    <link>https://pitakill.net/tags/general/</link>
+    <description>Recent content in General on Leopoldo Caballero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2017 21:27:37 -0600</lastBuildDate>
+    
+	<atom:link href="https://pitakill.net/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why this site?</title>
+      <link>https://pitakill.net/post/why-this-site/</link>
+      <pubDate>Tue, 10 Jan 2017 21:27:37 -0600</pubDate>
+      
+      <guid>https://pitakill.net/post/why-this-site/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;http://pitakill.net&#34;&gt;domain&lt;/a&gt; is almost in its thirteen anniversary, in the first steps was a blog about my GNU/Linux stuff, and a catalog of some weird recording of the cuban songwriter Silvio Rodríguez. The engine behind was JAWS, made by some folks in México.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
