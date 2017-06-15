@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ssl on Leopoldo Caballero</title>
+    <link>https://pitakill.net/tags/ssl/</link>
+    <description>Recent content in Ssl on Leopoldo Caballero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 19:36:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://pitakill.net/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving this site to gh-pages with SSL for free</title>
+      <link>https://pitakill.net/post/hosting-in-github-custom-domain-for-free/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/post/hosting-in-github-custom-domain-for-free/</guid>
+      <description>This site was hosted in a VPS with 128 MB of RAM, and 10GB of disk space. So far, so good. These specs are sufficient enough for run a hugo server, a nginx reverse proxy. And with Let&amp;rsquo;s Encrypt all is served with SSL.
+Everything is smooth with this configuration, but in a near future (next month) the plan with the VPS is over, and there is not possible to extend the contract because the provider was acquired by a third and the product was outdated.</description>
+    </item>
+    
+  </channel>
+</rss>

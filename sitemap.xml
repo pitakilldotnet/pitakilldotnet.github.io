@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pitakill.net/post/hosting-in-github-custom-domain-for-free/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pitakill.net/post/windows-10-almost-ready/</loc>
     <lastmod>2017-02-16T10:02:26-06:00</lastmod>
   </url>
@@ -13,8 +18,26 @@
   </url>
   
   <url>
+    <loc>https://pitakill.net/tags/cloudflare/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/custom-domain/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pitakill.net/tags/develop/</loc>
     <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/free/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,8 +48,20 @@
   </url>
   
   <url>
+    <loc>https://pitakill.net/tags/gh-pages/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/github/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pitakill.net/</loc>
-    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,13 +73,19 @@
   
   <url>
     <loc>https://pitakill.net/post/</loc>
-    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pitakill.net/tags/ssl/</loc>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pitakill.net/tags/</loc>
-    <lastmod>2017-02-16T10:02:26-06:00</lastmod>
+    <lastmod>2017-06-14T19:36:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   

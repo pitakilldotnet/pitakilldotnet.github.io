@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Leopoldo Caballero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2017 10:02:26 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 19:36:07 -0500</lastBuildDate>
     
 	<atom:link href="https://pitakill.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloudflare</title>
+      <link>https://pitakill.net/tags/cloudflare/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Domain</title>
+      <link>https://pitakill.net/tags/custom-domain/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/custom-domain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Develop</title>
@@ -17,6 +35,15 @@
       <pubDate>Thu, 16 Feb 2017 10:02:26 -0600</pubDate>
       
       <guid>https://pitakill.net/tags/develop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free</title>
+      <link>https://pitakill.net/tags/free/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/free/</guid>
       <description></description>
     </item>
     
@@ -30,11 +57,38 @@
     </item>
     
     <item>
+      <title>Gh Pages</title>
+      <link>https://pitakill.net/tags/gh-pages/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/gh-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://pitakill.net/tags/github/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linux</title>
       <link>https://pitakill.net/tags/linux/</link>
       <pubDate>Thu, 16 Feb 2017 10:02:26 -0600</pubDate>
       
       <guid>https://pitakill.net/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssl</title>
+      <link>https://pitakill.net/tags/ssl/</link>
+      <pubDate>Wed, 14 Jun 2017 19:36:07 -0500</pubDate>
+      
+      <guid>https://pitakill.net/tags/ssl/</guid>
       <description></description>
     </item>
     
