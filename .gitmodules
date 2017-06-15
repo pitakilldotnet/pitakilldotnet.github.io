@@ -1,0 +1,3 @@
+[submodule "themes/hugo-geo"]
+	path = themes/hugo-geo
+	url = git@github.com:pitakill/hugo-geo.git

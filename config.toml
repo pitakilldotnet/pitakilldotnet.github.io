@@ -1,0 +1,23 @@
+baseurl = "https://pitakill.net/"
+title = "pitakill's stuff"
+languageCode = "en-us"
+theme = "hugo-geo"
+googleAnalytics = "UA-1895401-1"
+
+[taxonomies]
+  tag = "tags"
+  tutorial = "tutorials"
+
+[params]
+  analytics = "UA-1895401-1"
+  showglobe = true
+
+  github = "https://github.com/pitakill"
+  twitter = "https://twitter.com/pitakill"
+  linkedin = "https://www.linkedin.com/in/pitakill"
+  email = "hi [at _of course we hate the f*cking spam_] pitakill [dot _sorry for this_] net"
+
+  profilepic = "img/profile.png"
+
+  title = "Leopoldo Caballero"
+  subtitle = "{programming,bike,books} stuff basically"
