@@ -17,4 +17,6 @@ How manage the creation of a API in go (for example) with:
 
 Some of you maybe know that Google Maps requieres a valid domain, and valid SSL certificate to make all the queries without a problem in that platform, of course this is achievable in different forms, but if you want develop under the most similar environments that the staging and production envs, even if you do some kind of CI and CD, you need a technology like Docker, and the spec does not seem clear (at least to me) but with hope this Post is going to clarify some of these nuances.
 
-What
+### What do i understand for valid SSL and valid domain?
+
+This is very simple indeed. A [FQDN (Fully Qualified Domain Name)](https://en.wikipedia.org/wiki/Fully_qualified_domain_name "FQDN (Fully qualified domain name)") with a SSL signed by a [CA (Certificate Authority)](https://en.wikipedia.org/wiki/Certificate_authority "CA (Certificate Authority)") trusted by the browsers currently most used 
