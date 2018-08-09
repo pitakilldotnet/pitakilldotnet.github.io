@@ -1,6 +1,20 @@
 +++
 date = "2018-08-09T09:59:08-05:00"
+description = "A path to clarify the development with: SSL, domain, docker and last but not least portable across machines and maybe colleagues in a specific project"
 draft = true
+slug = "portable-development-environment-with-docker"
+summary = "A proposal for a volatile/portable environment with docker and valid domain. This is valid for any kind of language program, the language for this example is golang but is applicable with any other backend language"
+tags = ["general", "docker", "ssl", "development", "portable", "volatile"]
 title = "SSL, valid domain, docker, development"
 
 +++
+How manage the creation of a API in go (for example) with:
+
+* Valid domain
+* Valid SSL certificate
+* Docker
+* Portable
+
+Some of you maybe know that Google Maps requieres a valid domain, and valid SSL certificate to make all the queries without a problem in that platform, of course this is achievable in different forms, but if you want develop under the most similar environments that the staging and production envs, even if you do some kind of CI and CD, you need a technology like Docker, and the spec does not seem clear (at least to me) but with hope this Post is going to clarify some of these nuances.
+
+What
